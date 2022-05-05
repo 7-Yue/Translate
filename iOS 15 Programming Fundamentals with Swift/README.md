@@ -19,7 +19,6 @@ P.s:英文水平有限，如有翻译错误请谅解
 |13|Memory Management|内存管理| | | |
 |14|Communication Between Objects|对象间通信| | | |
 |15|C, Objective-C, and Swift|c,oc和swift| | | |
-|16|Memory Management|内存管理| | | |
-|17|Memory Management|内存管理| | | |
+
 
 
